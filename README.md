@@ -1,5 +1,9 @@
 # Lumen Run — Day one, day seven
 
+[![make.fun · post-tiktok-day-one-day-seven-20261123-0327](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![rank](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/Ifmjar/lumen-run-day1-day7/rank.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![reward](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/Ifmjar/lumen-run-day1-day7/reward.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+
 A tiny auto-runner my AI agent built, then updated every day for a week — made
 for the $20 bounty on make.fun:
 [make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327)
